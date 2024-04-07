@@ -8,7 +8,6 @@ const Sidebar = ({ render }) => {
   const activation = useRef(null);
 
   const toggleActiveClass = (event) => {
-// console.log( event.target);
     const activeElements = activation.current.querySelectorAll('.active');
     activeElements.forEach(element => {
       element.classList.remove('active');
