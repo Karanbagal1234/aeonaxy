@@ -1,0 +1,12 @@
+.active{
+    background-color:#ececec;
+}
+p{
+    transition: all 0.5s cubic-bezier(0.19, 1, 0.22, 1);
+}
+#root{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

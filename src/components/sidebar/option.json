@@ -1,0 +1,74 @@
+[ 
+    
+{
+    "name": "Site Settings",
+    "icon": "faCog"
+},
+{
+    "name": "Page Editing",
+    "icon": "faEdit"
+},
+{
+    "name": "S Plans and Billing",
+    "icon": "faMoneyBill"
+},
+{
+    "name": "Data Capture Forms",
+    "icon": "faClipboard"
+},
+{
+    "name": "Online Store",
+    "icon": "faStore"
+},
+{
+    "name": "Menu",
+    "icon": "faBars"
+},
+{
+    "name": "Site Statistics and Goals",
+    "icon": "faChartBar"
+},
+{
+    "name": "A Fonts",
+    "icon": "faFont"
+},
+{
+    "name": "SEO",
+    "icon": "faSearch"
+},
+{
+    "name": "Mobile Version",
+    "icon": "faMobileAlt"
+},
+{
+    "name": "General Questions",
+    "icon": "faQuestionCircle"
+},
+{
+    "name": "Other Questions",
+    "icon": "faComments"
+},
+{
+    "name": "Multilanding",
+    "icon": "faSitemap"
+},
+{
+    "name": "Email Campaign Builder",
+    "icon": "faEnvelope"
+},
+{
+    "name": "Errors",
+    "icon": "faExclamationTriangle"
+},
+{
+    "name": "Zero Block",
+    "icon": "faExclamation"
+},
+{
+    "name": "Custom Code",
+    "icon": "faCode"
+},
+{
+    "name": "Possible Problems",
+    "icon": "faInfoCircle"
+}]
